@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Almost nothing here because I like to keep my work private. If you want to learn more about my work please visit
+Almost nothing here because I like to keep my work private. If you want to learn more about my work visit
 [jastrzebskipawel.com](https://jastrzebskipawel.com)
 
 
