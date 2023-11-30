@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Almost nothing here because I like to keep my work private. If you want to learn more about my work please visit
+[jastrzebskipawel.com](https://jastrzebskipawel.com)
+
+
+### Other links
+- 🦀 Rust Framework - [crates.io/crates/wildbird](https://crates.io/crates/wildbird)
+- 💬 Movie Memorize - [moviememorize.com](https://moviememorize.com/home)
+
 <!--
 **PawelJastrzebski/PawelJastrzebski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
