@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Almost nothing here because I like to keep my work private. If you want to learn more about my work visit
-[jastrzebskipawel.com](https://jastrzebskipawel.com)
+#### Almost nothing here because I like to keep my work private. 
 
-
-### Other links
+### Projects
 - 🦀 Rust Framework - [crates.io/crates/wildbird](https://crates.io/crates/wildbird)
 - 💬 Movie Memorize - [moviememorize.com](https://moviememorize.com/home)
 - 🎱 JS State Container - [mute8](https://paweljastrzebski.github.io/mute8/)
 
+<br />
+
+If you want to learn more visit [jastrzebskipawel.com](https://jastrzebskipawel.com)
 
 
 
