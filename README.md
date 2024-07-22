@@ -6,6 +6,7 @@
 - 🦀 Rust Framework - [crates.io/crates/wildbird](https://crates.io/crates/wildbird)
 - 💬 Movie Memorize - [moviememorize.com](https://moviememorize.com/home)
 - 🎱 JS State Container - [mute8](https://paweljastrzebski.github.io/mute8/)
+- ☕ + 🦀 = ❤️‍🔥 Java JNI Bindings Generator - [crates.io/crates/java-pack](https://crates.io/crates/java-pack)
 
 <br />
 
